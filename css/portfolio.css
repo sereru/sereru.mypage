@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: aqua;
+    background: linear-gradient(#05FBFF, #1E00FF);
 }
 
 h1{
@@ -11,6 +11,10 @@ h1{
     margin:10px 20px 20px 30px;
     text-align: center;
     color:green;
+}
+
+a{
+    color: black;
 }
 
 table{
